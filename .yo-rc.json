@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.anno",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "monolith",
+    "baseName": "annocash",
+    "packageName": "com.anno",
+    "packageFolder": "com/anno",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YmE1Mjg1MzAwMWIyYTI4MTg5NDE3ZDM2NTgzMzA1MGZhNGJiOTUzNjY0N2FmOWM0N2Y1MDQyODRiM2FmMDU2Yzg5MDRhMTk0ZWI1NWM1ZDFlNWQ1NzY0YjU3MGQ4YzllYjdjZTk2YTgxNTQ4ZTFiMzA1N2I1MDk1MjI5MDEwYTE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "superhero",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1603962230702,
+    "testFrameworks": ["gatling", "cucumber"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr", "nl", "en"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
